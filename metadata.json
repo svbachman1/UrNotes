@@ -1,0 +1,7 @@
+{
+  "name": "Ur Notes",
+  "description": "AI-powered Urdu voice note-taking app",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
